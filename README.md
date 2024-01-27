@@ -7,21 +7,21 @@ pip install facebook-sdk
 pip install dotenv
 
 
-# Set up Telegram Bot
+## Set up Telegram Bot
 
 * Go to BotFather (Search on Telegram search) and create a new Bot
 * Now Set Bot group privacy to disable using BotFather
 * Add that Bot to your Group and make it as an admin
 
-# Creating your Telegram Application
+## Creating your Telegram Application
 
 https://core.telegram.org/api/obtaining_api_id
 
-# Set up Reddit Config and create an App
+## Set up Reddit Config and create an App
 
 https://old.reddit.com/prefs/apps/
 
-# Set up Facebook app
+## Set up Facebook app
 
 ## Graph API explorer for generating SHORT_LIVED_TOKEN
 But Use a Long Lived Token on the script
