@@ -23,8 +23,13 @@ https://old.reddit.com/prefs/apps/
 
 ## Set up Facebook app
 
-## Graph API explorer for generating SHORT_LIVED_TOKEN
-But Use a Long Lived Token on the script
+Create an app on https://developers.facebook.com/
+Give this app the Facebook Page permission 'pages_read_engagement,pages_manage_posts'
+Also Add the facebook Login Product to this app
+
+### Graph API explorer for testing the app & also generating SHORT_LIVED_TOKEN
+
+But Use a Long Lived Token on the script( Use a Page AccessToken to test the Graph API)
 
 https://developers.facebook.com/tools/explorer
 
@@ -40,4 +45,6 @@ def exchange_for_long_lived_token(short_lived_token, app_id, app_secret):
 Then use this long token if you don't want the token to expire frequently to outlive token to as long as 60 Days
 
 # Use python3 telegram_to_reddit.py to run the script
+
+### Create an Issue on the repo if there are any issues or you need help :)
 
