@@ -30,6 +30,10 @@ https://core.telegram.org/api/obtaining_api_id
 
 https://old.reddit.com/prefs/apps/
 
+## Set up A Twitter App
+
+https://developer.twitter.com/en/portal/dashboard
+
 ## Set up Facebook app
 
 * Create an app on https://developers.facebook.com/
