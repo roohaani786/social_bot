@@ -64,3 +64,5 @@ to run the script
 ### Create an Issue on the repo if there are any issues or you need help :)
 ### please Star the repo if you liked it ;)
 
+# Businesses can contact me @ amanroohaani@gmail.com
+
