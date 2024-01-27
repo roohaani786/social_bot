@@ -2,8 +2,11 @@
 A Telegram Bot capable of posting and pushing your posts to Reddit, Twitter (Threads or Normal) and Facebook smoothly using a Telegram Group
 
 pip install python-telegram-bot==20.7
+
 pip install praw==7.7.1
+
 pip install facebook-sdk
+
 pip install dotenv
 
 
